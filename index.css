@@ -1,0 +1,20 @@
+:root {
+    --main-color: #FCF7EC;
+    --accent-color: #1C6BC6;
+    --bg-color: #EBEBEB;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 10px;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: var(--bg-color);
+    width: 100vw;
+}
