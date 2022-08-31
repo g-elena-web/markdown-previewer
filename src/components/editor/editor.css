@@ -1,0 +1,12 @@
+.editor textarea {
+    color: var(--accent-color);
+    border: none;
+    outline: none;
+    resize: none;
+  }
+
+@media(max-width: 900px) {
+    .editor.window {
+        height: 40vh;
+    }
+}
